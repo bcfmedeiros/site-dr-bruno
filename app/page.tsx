@@ -358,20 +358,11 @@ export default function CataractSurgeonWebsite() {
           >
             {/* Foto profissional (opcional) */}
             <div className="mb-4 overflow-hidden rounded-[2rem] border border-slate-200/60 bg-white shadow-sm">
-              {BRAND.photoUrl ? (
-                <img
-                  src={BRAND.photoUrl}
-                  alt={BRAND.heroImageAlt}
-                  className="h-64 w-full object-cover"
-                />
-              ) : (
-                <div className="grid h-64 w-full place-items-center bg-gradient-to-br from-blue-50 to-sky-50">
-                  <div className="text-center">
-                    <div className="text-sm font-medium text-slate-700">Foto profissional</div>
-                    <div className="mt-1 text-xs text-slate-500">Adicione um link em BRAND.photoUrl</div>
-                  </div>
-                </div>
-              )}
+              <img
+  src={BRAND.photoUrl}
+  alt={BRAND.heroImageAlt}
+  className="h-80 w-full object-cover rounded-[2rem]"
+/>
             </div>
 
             <div className="absolute -inset-4 -z-10 rounded-[2rem] bg-gradient-to-br from-blue-200/60 to-sky-100/60 blur-2xl" />
