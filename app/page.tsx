@@ -386,7 +386,7 @@ export default function CataractSurgeonWebsite() {
                     <label className="text-xs text-slate-600">Nome</label>
                     <Input
                       value={lead.name}
-                      onChange={(e) => setLead((p) => ({ ...p, name: e.target.value }))}
+                      onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLead((p) => ({ ...p, name: e.target.value }))}
                       placeholder="Seu nome"
                       className="rounded-2xl"
                     />
@@ -395,7 +395,7 @@ export default function CataractSurgeonWebsite() {
                     <label className="text-xs text-slate-600">Telefone/WhatsApp</label>
                     <Input
                       value={lead.phone}
-                      onChange={(e) => setLead((p) => ({ ...p, phone: e.target.value }))}
+                      onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLead((p) => ({ ...p, phone: e.target.value }))}
                       placeholder="(DDD) 9xxxx-xxxx"
                       className="rounded-2xl"
                     />
@@ -421,9 +421,9 @@ export default function CataractSurgeonWebsite() {
                     <div>
                       <div className="text-sm font-medium">Local</div>
                       <div className="text-sm text-slate-600">
-                        {BRAND.addressLine1}
-                        <br />
-                        {BRAND.addressLine2}
+                        {selectedLocation.addressLine1}
+                       <br />
+                       {selectedLocation.addressLine2}
                       </div>
                     </div>
                   </div>
@@ -728,7 +728,7 @@ export default function CataractSurgeonWebsite() {
                       <p className="mt-2 text-sm text-slate-700">
                         “Atendimento muito claro e seguro. Fui bem orientado desde a consulta até o pós-operatório.”
                       </p>
-                      <div className="mt-2 text-xs text-slate-500">Paciente • {BRAND.city}</div>
+                      <div className="mt-2 text-xs text-slate-500">Paciente • {BRAND.regionLine}</div>
                     </div>
                   ))}
                 </CardContent>
@@ -909,9 +909,9 @@ export default function CataractSurgeonWebsite() {
                 <div>
                   <div className="text-sm font-medium">Endereço</div>
                   <div className="text-sm text-slate-600">
-                    {BRAND.addressLine1}
+                    {selectedLocation.addressLine1}
                     <br />
-                    {BRAND.addressLine2}
+                    {selectedLocation.addressLine2}
                   </div>
                 </div>
               </div>
@@ -930,7 +930,7 @@ export default function CataractSurgeonWebsite() {
                   </a>
                 </Button>
                 <Button asChild variant="outline" className="rounded-2xl">
-                  <a href={BRAND.mapLink} target="_blank" rel="noreferrer" className="flex items-center gap-2">
+                  <a href={selectedLocation.mapLink} target="_blank" rel="noreferrer" className="flex items-center gap-2">
                     Abrir no mapa <MapPin className="h-4 w-4" />
                   </a>
                 </Button>
@@ -956,7 +956,7 @@ export default function CataractSurgeonWebsite() {
                     <label className="text-xs text-slate-600">Nome</label>
                     <Input
                       value={lead.name}
-                      onChange={(e) => setLead((p) => ({ ...p, name: e.target.value }))}
+                      onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLead((p) => ({ ...p, name: e.target.value }))}
                       placeholder="Seu nome"
                       className="rounded-2xl"
                     />
@@ -965,7 +965,7 @@ export default function CataractSurgeonWebsite() {
                     <label className="text-xs text-slate-600">Telefone/WhatsApp</label>
                     <Input
                       value={lead.phone}
-                      onChange={(e) => setLead((p) => ({ ...p, phone: e.target.value }))}
+                      onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLead((p) => ({ ...p, phone: e.target.value }))}
                       placeholder="(DDD) 9xxxx-xxxx"
                       className="rounded-2xl"
                     />
