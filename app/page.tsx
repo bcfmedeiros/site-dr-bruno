@@ -91,7 +91,7 @@ const BRAND = {
   bookingLink: "#contato",
   heroImageAlt: "Dr. Bruno Medeiros em consultório",
   // Foto: substitua por um link público (ex.: site/CDN) ou importe via seu projeto.
-  photoUrl: "",
+  photoUrl: "/imagens/bruno.jpg",
   locations: [
     {
       id: "natal",
