@@ -23,8 +23,8 @@ export const metadata: Metadata = {
 const BRAND = {
   name: "Dr. Bruno Medeiros",
   crmLine: "CRM/RN 7845 • RQE 3674",
-  phoneDisplay: "(84) 99828-0000",
-  whatsappNumber: "5584998280000",
+  phoneDisplay: "(84) 99708-0000",
+  whatsappNumber: "5584997080000",
   hospitals: ["IOMR", "CSO"],
   locations: [
     {

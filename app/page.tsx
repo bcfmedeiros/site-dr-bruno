@@ -85,9 +85,9 @@ const BRAND = {
   specialty: "Cirurgião de Catarata",
   crmLine: "CRM/RN 7845 • RQE 3674",
   regionLine: "Natal e Parnamirim/RN",
-  phoneDisplay: "(84) 99828-0000",
+  phoneDisplay: "(84) 99708-0000",
   // Use o formato internacional (somente números) para WhatsApp.
-  whatsappNumber: "5584998280000",
+  whatsappNumber: "5584997080000",
   bookingLink: "#contato",
   heroImageAlt: "Dr. Bruno Medeiros em consultório",
   // Foto: substitua por um link público (ex.: site/CDN) ou importe via seu projeto.
