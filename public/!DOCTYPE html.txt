@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade | Dr. Bruno Medeiros — Oftalmologia, Natal/RN</title>
+<meta name="description" content="Política de privacidade e tratamento de dados pessoais — Dr. Bruno C.F. Medeiros, CRM-RN 7845, Natal/RN.">
+<meta name="robots" content="index, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;600&family=Petrona:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#16242E;--ink-2:#4A5A63;--paper:#FAFAF8;--line:#D6D9D1;--accent:#0B5C55;--accent-deep:#084842;
+  --serif:'Petrona',Georgia,serif;--sans:'IBM Plex Sans',-apple-system,'Segoe UI',Roboto,sans-serif;--mono:'IBM Plex Mono',monospace}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:18px;line-height:1.65}
+.wrap{max-width:760px;margin:0 auto;padding:0 22px}
+.topbar{border-bottom:1px solid var(--line);padding:16px 0}
+.topbar .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline;justify-content:space-between}
+.brand{font-family:var(--serif);font-size:21px;font-weight:600}
+.reg{font-family:var(--mono);font-size:13px;color:var(--ink-2);letter-spacing:.04em}
+main{padding:54px 0 70px}
+h1{font-family:var(--serif);font-size:clamp(30px,5vw,42px);line-height:1.15;margin:0 0 10px;font-weight:600}
+h2{font-family:var(--serif);font-size:clamp(21px,3vw,26px);margin:44px 0 12px;font-weight:600;line-height:1.25}
+p,li{margin:0 0 1em}
+ul{padding-left:22px}
+.upd{font-family:var(--mono);font-size:13px;color:var(--ink-2);letter-spacing:.04em;text-transform:uppercase;margin-bottom:34px}
+a{color:var(--accent-deep)}
+.box{background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);padding:22px 24px;border-radius:0 4px 4px 0;margin:28px 0}
+.box p:last-child{margin-bottom:0}
+footer{border-top:1px solid var(--line);padding:34px 0 60px;font-size:15px;color:var(--ink-2)}
+footer .sig{font-family:var(--mono);font-size:13px;color:var(--ink);letter-spacing:.03em}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <span class="brand">Dr. Bruno Medeiros</span>
+    <span class="reg">CRM-RN 7845 &nbsp;|&nbsp; RQE 3674 &nbsp;|&nbsp; OFTALMOLOGIA</span>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+  <h1>Política de Privacidade</h1>
+  <p class="upd">Última atualização: agosto de 2026</p>
+
+  <p>Esta política explica como os dados pessoais de quem acessa este site e entra em contato conosco são tratados, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018).</p>
+
+  <h2>1. Quem trata os seus dados</h2>
+  <p>Dr. Bruno C.F. Medeiros — médico oftalmologista, CRM-RN 7845, RQE 3674.<br>
+  Avenida Afonso Pena, 1212 — IOMR, Tirol, Natal/RN.<br>
+  Contato: (84) 99708-0000.</p>
+
+  <h2>2. Quais dados coletamos</h2>
+  <p><strong>Dados que você nos fornece:</strong> ao clicar em nossos botões de contato, você é direcionado ao WhatsApp ou ao telefone. As informações que você compartilhar nessa conversa — nome, telefone, motivo do contato e informações de saúde que você espontaneamente informar — são tratadas por nós.</p>
+  <p><strong>Dados coletados automaticamente:</strong> ao navegar no site, podem ser registrados dados técnicos como endereço IP, tipo de dispositivo, navegador, páginas visitadas e a origem do acesso (por exemplo, se você chegou por um anúncio). Esses dados são usados de forma agregada, para medir o desempenho do site e das campanhas.</p>
+
+  <h2>3. Para que usamos</h2>
+  <ul>
+    <li>Responder ao seu contato e agendar consultas.</li>
+    <li>Enviar informações e orientações relacionadas ao seu atendimento, quando você autorizar.</li>
+    <li>Medir o desempenho do site e das campanhas de divulgação.</li>
+    <li>Cumprir obrigações legais e regulatórias aplicáveis à atividade médica.</li>
+  </ul>
+
+  <h2>4. Dados de saúde</h2>
+  <div class="box">
+    <p>Informações de saúde são consideradas <strong>dados pessoais sensíveis</strong> pela LGPD e recebem proteção reforçada. Elas são tratadas exclusivamente para a finalidade de tutela da saúde, por profissional de saúde, e estão protegidas pelo sigilo médico.</p>
+    <p>Nunca mencionamos diagnóstico, condição clínica ou informação de saúde em mensagens automatizadas.</p>
+  </div>
+
+  <h2>5. Com quem compartilhamos</h2>
+  <p>Não vendemos, alugamos nem comercializamos dados pessoais. O compartilhamento ocorre apenas nas seguintes situações:</p>
+  <ul>
+    <li>Com a equipe do consultório e do serviço onde o atendimento é realizado, no que for necessário para o seu atendimento.</li>
+    <li>Com operadoras de plano de saúde, quando o atendimento for por convênio e conforme as regras do seu plano.</li>
+    <li>Com prestadores de tecnologia que hospedam o site e operam ferramentas de mensuração, sob obrigação contratual de confidencialidade.</li>
+    <li>Quando houver determinação legal, judicial ou de autoridade competente.</li>
+  </ul>
+
+  <h2>6. Comunicações por WhatsApp</h2>
+  <p>Só enviamos mensagens a quem nos procurou ou autorizou expressamente o contato. Você pode pedir a interrupção do envio a qualquer momento, respondendo à própria conversa ou entrando em contato pelo número informado nesta política. O pedido é atendido sem prejuízo ao seu atendimento.</p>
+
+  <h2>7. Cookies e mensuração</h2>
+  <p>Este site pode utilizar cookies e tecnologias semelhantes, próprios e de terceiros (como Google e Meta), para entender como as pessoas chegam até aqui e medir o desempenho das campanhas. Você pode bloquear ou apagar cookies nas configurações do seu navegador; algumas funções do site podem ser afetadas.</p>
+
+  <h2>8. Por quanto tempo guardamos</h2>
+  <p>Dados de contato são mantidos pelo tempo necessário ao atendimento e ao relacionamento com o paciente. Prontuários e registros clínicos são guardados pelos prazos determinados pela legislação e pelas normas do Conselho Federal de Medicina.</p>
+
+  <h2>9. Seus direitos</h2>
+  <p>A LGPD garante a você o direito de confirmar a existência de tratamento, acessar seus dados, corrigir dados incompletos ou desatualizados, solicitar anonimização, bloqueio ou eliminação de dados desnecessários, pedir portabilidade, revogar o consentimento e obter informação sobre compartilhamentos.</p>
+  <p>Para exercer qualquer um desses direitos, entre em contato pelo telefone (84) 99708-0000. Responderemos no menor prazo possível.</p>
+
+  <h2>10. Segurança</h2>
+  <p>Adotamos medidas técnicas e administrativas para proteger os dados contra acesso não autorizado, perda ou uso indevido. Nenhum sistema é totalmente imune a incidentes; em caso de incidente relevante, comunicaremos os titulares afetados e a autoridade competente na forma da lei.</p>
+
+  <h2>11. Alterações</h2>
+  <p>Esta política pode ser atualizada. A data da última atualização está indicada no topo desta página.</p>
+
+  <p style="margin-top:44px"><a href="/cirurgia-de-catarata-natal">← Voltar</a></p>
+</div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p class="sig">DR. BRUNO C.F. MEDEIROS &nbsp;|&nbsp; CRM-RN 7845 &nbsp;|&nbsp; RQE 3674 &nbsp;|&nbsp; OFTALMOLOGIA</p>
+    <p style="margin-top:10px">Avenida Afonso Pena, 1212 — IOMR, Tirol, Natal/RN · (84) 99708-0000</p>
+  </div>
+</footer>
+</body>
+</html>
